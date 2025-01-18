@@ -1,7 +1,7 @@
 
         try {
           
-            console.log('Student Name: Phearom Rath');
+            console.log('Student Name: BUNROUEN SEREYSARAKROETTH');
             let x = 20
         } catch (error) {
             console.error(error.message); 
